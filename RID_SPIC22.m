@@ -1,4 +1,6 @@
 function features=RID_SPIC22(image)
+% main function
+% image: a RGB image's name
 
 threshold=3/255;
 Direction=3;
